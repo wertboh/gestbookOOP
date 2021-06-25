@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262828e6-dd4d-491f-a2b5-cb5c38adbc92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1uO5DWpV0SU1GuENbs0Oib60zKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262828e6-dd4d-491f-a2b5-cb5c38adbc92" name="Default Changelist" comment="" />
+      <created>1624523678676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624523678676</updated>
+      <workItem from="1624523681300" duration="50069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="210" key="#SQL_Dialects" timestamp="1624543277332">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="59" y="210" key="#SQL_Dialects/0.0.1366.738@0.0.1366.738" timestamp="1624543277332" />
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624630721987">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1624630721987" />
+    <state x="442" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624621343452">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="442" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1624621343452" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1624535694746">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624535694746" />
+    <state x="480" y="92" key="NewPhpClassDialog" timestamp="1624533184279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="92" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1624533184279" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1624629429836">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1624629429836" />
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624605294044">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1624605294044" />
+    <state x="452" y="177" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1624535696232">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="452" y="177" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1624535696232" />
+    <state x="390" y="102" width="585" height="534" key="find.popup" timestamp="1624633143895">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="102" width="585" height="534" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1624633143895" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+$(document).ready(function () {
+    $("form").submit(
+        function () {
+            loginAjax("loginresult_form", "login_form", "login.php");
+            return false;
+
+        });
+});
+
+function loginAjax(loginresult_form, login_form, url) {
+    $.ajax({
+            url: url,
+            type: "POST",
+            dataType: "html",
+            data: $("#" + login_form).serialize(),
+            success: function (response) {
+                response = JSON.parse(response)
+
+                if (response) {
+                    document.location.replace("http://gestbookoop/reply.php");
+                } else alert("Invalid password or email. Please check your data");
+            },
+            error: function (response) {
+                alert("error");
+                $("#loginresult_form").html("Error. Your data has not been sent.");
+            }
+        }
+    );
+
+}
+
+
